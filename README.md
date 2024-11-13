@@ -1,8 +1,8 @@
-<img src="fotoUta.jpg" align="left" width="150" style="margin-right: 20px;" />
 
 # ¡Hola! 👋 Soy Angel Ayuquina
 
 ### Sobre mí
+<img src="fotoUta.jpg" align="left" width="150" style="margin-right: 20px;" />
 - 🌱 Actualmente estoy estudiando: Ingeniería en Software
 - 💼 Trabajando en: Estudiante
 - 🎓 Estudios: Universidad Técnica de Ambato
