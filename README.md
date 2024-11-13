@@ -4,7 +4,7 @@
 <img src="fotoUta.jpg" align="left" width="150" style="margin-right: 20px;" />
 
 - 🌱 Actualmente estoy estudiando: Ingeniería en Software  
-- 💼 Trabajando en: Estudiante  
+- 💼 Actualmente estoy estudiando  
 - 🎓 Estudios: Universidad Técnica de Ambato  
 - 💬 Pregúntame sobre: El rock en general
 - 📫 Cómo contactarme: aayuquina4220@uta.edu.ec  
