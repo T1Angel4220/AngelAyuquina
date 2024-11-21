@@ -5,6 +5,7 @@
 
 - 💼 Actualmente estoy estudiando en la Universidad Técnica de Ambato
 - 🎓 Carrera: Ingeniería en Software
+- 🐱 Amo a los gatos: Me encantan su elegancia, independencia y personalidad única. Siempre encuentro alegría en su compañía. 😻
 - 📫 Cómo contactarme: aayuquina4220@uta.edu.ec  
 - 🌐 Portafolio: [https://t1angel4220.github.io/](https://t1angel4220.github.io/)
 
