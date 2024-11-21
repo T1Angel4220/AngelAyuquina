@@ -6,10 +6,19 @@
 - 💼 Actualmente estoy estudiando en la Universidad Técnica de Ambato
 - 🎓 Carrera: Ingeniería en Software
 - 🐱 Amo a los gatos: Me encantan su elegancia, independencia y personalidad única. Siempre encuentro alegría en su compañía. 😻
-- 📫 Cómo contactarme: aayuquina4220@uta.edu.ec  
+- 📫 Cómo contactarme: aayuquina4220@uta.edu.ec
+ ### Habilidades Técnicas
+- 💻 Lenguajes de programación: Java, Python, SQL
+- 🛠️ Tecnologías y herramientas: Git, GitHub, PHP, MySQL
+- 🌐 Desarrollo web: HTML, CSS, JavaScript
+- 🎮 Intereses adicionales: Desarrollo de videojuegos y aplicaciones interactivas
+  ### Intereses
+- 🎵 Me apasiona la música y aprender nuevas habilidades creativas.
+- 🌱 Siempre estoy aprendiendo y mejorando, tanto en lo técnico como en lo personal.
+
 - 🌐 Portafolio: [https://t1angel4220.github.io/](https://t1angel4220.github.io/)
 
-A veces, las cosas no son lo que parecen. Es un recordatorio de que no todo lo que se dice o se muestra es completamente cierto. Reflexiona siempre antes de tomar algo como un hecho.
+A veces, las cosas no son lo que parecen. Este pensamiento me motiva a cuestionar, aprender y comprender más profundamente el mundo que me rodea. Creo que el crecimiento personal y profesional nace de la curiosidad y el deseo de explorar lo desconocido.
 
 
 ### Conectemos
