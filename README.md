@@ -7,7 +7,6 @@
 - 🎓 Carrera: Ingeniería en Software
 - 🐱 Amo a los gatos: Me encantan su elegancia, independencia y personalidad única. Siempre encuentro alegría en su compañía. 😻
 - 📫 Cómo contactarme: aayuquina4220@uta.edu.ec
- ### Habilidades Técnicas
 - 💻 Lenguajes de programación: Java, Python, SQL
 - 🛠️ Tecnologías y herramientas: Git, GitHub, PHP, MySQL
 - 🌐 Desarrollo web: HTML, CSS, JavaScript
