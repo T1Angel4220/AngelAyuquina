@@ -3,9 +3,8 @@
 ### Sobre mí
 <img src="fotoUta.jpg" align="left" width="150" style="margin-right: 20px;" />
 
-- 🌱 Actualmente estoy estudiando: Ingeniería en Software  
-- 💼 Actualmente estoy estudiando  
-- 🎓 Estudios: Universidad Técnica de Ambato  
+- 💼 Actualmente estoy estudiando en la Universidad Técnica de Ambato
+- 🎓 Carrera: Ingeniería en Software
 - 📫 Cómo contactarme: aayuquina4220@uta.edu.ec  
 - 🌐 Portafolio: [https://t1angel4220.github.io/](https://t1angel4220.github.io/)
 
